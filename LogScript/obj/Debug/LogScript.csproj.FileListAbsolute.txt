@@ -1,0 +1,13 @@
+C:\Users\Lucy\source\repos\LogScript\bin\Debug\LogScript.exe.config
+C:\Users\Lucy\source\repos\LogScript\bin\Debug\LogScript.exe
+C:\Users\Lucy\source\repos\LogScript\bin\Debug\LogScript.pdb
+C:\Users\Lucy\source\repos\LogScript\obj\Debug\LogScript.csprojAssemblyReference.cache
+C:\Users\Lucy\source\repos\LogScript\obj\Debug\LogScript.Form1.resources
+C:\Users\Lucy\source\repos\LogScript\obj\Debug\LogScript.Properties.Resources.resources
+C:\Users\Lucy\source\repos\LogScript\obj\Debug\LogScript.csproj.GenerateResource.cache
+C:\Users\Lucy\source\repos\LogScript\obj\Debug\LogScript.csproj.CoreCompileInputs.cache
+C:\Users\Lucy\source\repos\LogScript\obj\Debug\LogScript.exe
+C:\Users\Lucy\source\repos\LogScript\obj\Debug\LogScript.pdb
+C:\Users\Lucy\Documents\LogScript.exe.config
+C:\Users\Lucy\Documents\LogScript.exe
+C:\Users\Lucy\Documents\LogScript.pdb
